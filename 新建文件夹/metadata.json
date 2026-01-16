@@ -1,0 +1,5 @@
+{
+  "name": "促销员",
+  "description": "A comprehensive internal management platform for supermarket promoter onboarding, offboarding, store transfers, and schedule modifications, featuring a multi-tier approval workflow and automated fee calculations.",
+  "requestFramePermissions": []
+}
